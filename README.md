@@ -9,7 +9,7 @@ How to Run:
 
 *System Functionalities*
 
-Student Coordinator*
+(Student Coordinator)
 1.	Should be able to add batch details and subjects
 2.	Insert student information and allocating them in to different batches and streams 
 3.	Update student information 
@@ -17,12 +17,12 @@ Student Coordinator*
 5.	Insert /update the assignment grades
 6.	 View the assignment submission status based on the student/ batch/ subject/streams
 
-Student*
+(Student)
 7.	View their information
 8.	View their assignment status (submitted/ not Submitted)
 9.	View their assignment grades
 
-Administrator*
+(Administrator)
 10.	Creating users:  Creating new users, managing and modify the existing users
 
 /////////////////////////////
