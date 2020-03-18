@@ -16,6 +16,7 @@ Student Coordinator
 4.	Accepting student assignment and change the status in the system as “submitted”
 5.	Insert /update the assignment grades
 6.	 View the assignment submission status based on the student/ batch/ subject/streams
+
 Student
 7.	View their information
 8.	View their assignment status (submitted/ not Submitted)
