@@ -18,12 +18,12 @@ How to Run:
 6.	 View the assignment submission status based on the student/ batch/ subject/streams
 
 (Student)
-7.	View their information
-8.	View their assignment status (submitted/ not Submitted)
-9.	View their assignment grades
+*   View their information
+*   View their assignment status (submitted/ not Submitted)
+*   View their assignment grades
 
 (Administrator)
-10.	Creating users:  Creating new users, managing and modify the existing users
+* Creating users:  Creating new users, managing and modify the existing users
 
 /////////////////////////////
 mr.dare1234@gmail.com
