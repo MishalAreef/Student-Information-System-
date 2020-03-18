@@ -1,0 +1,20 @@
+Admin-
+	AD[ad123]
+
+Coordinator-
+	CD[cd123]
+	CD1[cd123]
+	CD2[cd123]
+
+Students-
+	A120[123]Barak Obama 
+	A121[123]Putin 	
+	A122[123]Yaameen ibrahim
+	A123[123]Ahmed Habibi
+	A124[123]Khalid
+	A125[123]Ahmed Ali
+	A126[123]Canor Mcgregor
+	A127[123]Drake
+	A128[123]Abel Tesfaye
+	A129[123]Stewie	Griffin
+	A130[123]Mishal Areef
